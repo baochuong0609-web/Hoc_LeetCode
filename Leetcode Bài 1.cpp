@@ -1,4 +1,4 @@
-﻿//STATUS: ĐANG SAI
+﻿//STATUS: AC
 
 #include <iostream>
 #include <vector>
